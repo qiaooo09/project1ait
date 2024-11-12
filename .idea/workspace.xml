@@ -4,13 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f428bf9a-d19a-43df-9a83-d91fe38e1ca0" name="Changes" comment="version 2: input-output + choice" />
+    <list default="true" id="f428bf9a-d19a-43df-9a83-d91fe38e1ca0" name="Changes" comment="version 1: input-output + choice">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="verison-3" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -26,8 +33,8 @@
   "keyToString": {
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+    "git-widget-placeholder": "verison-1",
+    "settings.editor.selected.configurable": "com.intellij.pycharm.community.ide.impl.configuration.PythonContentEntriesConfigurable"
   }
 }]]></component>
   <component name="RunManager">
@@ -86,7 +93,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731406180975</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="version 1: input-output + choice">
+      <option name="closed" value="true" />
+      <created>1731406409952</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731406409952</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -115,6 +130,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="version 1: input-output" />
     <MESSAGE value="version 2: input-output + choice" />
-    <option name="LAST_COMMIT_MESSAGE" value="version 2: input-output + choice" />
+    <MESSAGE value="version 1: input-output + choice" />
+    <option name="LAST_COMMIT_MESSAGE" value="version 1: input-output + choice" />
   </component>
 </project>
